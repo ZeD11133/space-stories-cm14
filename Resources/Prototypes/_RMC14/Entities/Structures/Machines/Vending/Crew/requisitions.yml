@@ -684,6 +684,8 @@
         amount: 4
       - id: RMCAttachmentMiniFlamethrower
         amount: 5
+      - id: RMCAttachmentUnderbarrelFlareGun
+        amount: 5
       #- id: RMCAttachmentXMVESG1FlamerNozzle
       #  amount: 5
       - id: RMCAttachmentU7UnderbarrelShotgun
@@ -716,6 +718,7 @@
         amount: 5
       - id: RMCAttachmentM44MagnumSharpshooterStock
         amount: 5
+
 
 #UNIFORM VENDOR
 - type: entity
